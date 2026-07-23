@@ -7,4 +7,5 @@
 If not compiling early on, double check `tasks.json` and make sure `"command"` is the correct compiler. For example, it clang++ for me! (ChatGPT helped me debug this)
 
 open README.md
+mv to edit folder names
 
